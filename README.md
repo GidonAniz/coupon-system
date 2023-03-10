@@ -1,3 +1,2 @@
 # coupon-system
-coupon system 
-<img src="https://user-images.githubusercontent.com/113261408/224427799-0c87bbfd-d682-4c4a-abe0-c1d573101489.gif"/>
+![coupon_system_app_2](https://user-images.githubusercontent.com/113261408/224429342-a21427f7-4a5f-4731-a148-fdb8e426ceff.gif)
