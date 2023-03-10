@@ -1,4 +1,4 @@
 # coupon-system
 
 
-<img src="https://user-images.githubusercontent.com/113261408/224430445-337c8c38-0855-47a1-bb5a-0351b1f3701b.gif"  width="300"/>
+<img src="![coupon_system_app](https://user-images.githubusercontent.com/113261408/224431575-27aa11f2-2179-4222-94e0-fdf4ba56835e.gif)"  width="300"/>
