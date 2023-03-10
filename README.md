@@ -1,2 +1,2 @@
 # coupon-system
-<img src="https://user-images.githubusercontent.com/113261408/224429342-a21427f7-4a5f-4731-a148-fdb8e426ceff.gif" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/113261408/224429342-a21427f7-4a5f-4731-a148-fdb8e426ceff.gif" width="100" height="100"/>
